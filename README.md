@@ -123,5 +123,5 @@ Credit any libraries, tools, or resources used in your project, such as:
 - [React Router](https://reactrouter.com/)  
 
 ---
+## Result
 
-This template can be customized further to match the unique details of your project.
