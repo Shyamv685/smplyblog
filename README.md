@@ -124,4 +124,11 @@ Credit any libraries, tools, or resources used in your project, such as:
 
 ---
 ## Result
+**img1** 
+![res 1](https://github.com/user-attachments/assets/08fc120f-11a8-4413-ad9c-a3848a13b907)
+**img2**
+![res 2](https://github.com/user-attachments/assets/5f4f98e3-4cdd-46f6-9323-e3fe9e5beec5)
+**img3**
+![res 3](https://github.com/user-attachments/assets/be94ba8c-a820-4cfa-8ac9-685a6b8d35e2)
+
 
