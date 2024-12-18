@@ -83,14 +83,6 @@ src/
 
 ---
 
-## **Screenshots**  
-### **Home Page**  
-Include an image of the home page.  
-
-### **Post Page**  
-Add a screenshot of a single post with comments.
-
----
 
 ## **Contributing**  
 Contributions are welcome!  
